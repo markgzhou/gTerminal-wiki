@@ -1,4 +1,4 @@
-# gTerminal Wiki
+# LL0101 Wiki
 
 - If you land on this page, means you are looking for some techie stuff. Feel free to use the search feature in the top
   left corner.
